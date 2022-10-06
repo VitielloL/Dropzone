@@ -1,3 +1,4 @@
-# Dropzone-Test
-Dropzone feito de CSS e Javascript
-Link para visualizar https://dropzone-zeta.vercel.app/
+# Dropzone
+
+Dropzone utilizando HTML, CSS e Javascript
+Hospedagem: https://dropzone-zeta.vercel.app/
